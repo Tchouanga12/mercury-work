@@ -1,2 +1,2 @@
 # MERCURY-BUSINESS-WEB
-This repository I for the business platform for Mercury
+This repository is for the business platform for Mercury
