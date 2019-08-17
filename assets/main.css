@@ -1,12 +1,16 @@
+/* begin header slider*/
+
+.d-block {
+    height: 500px;
+}
+
+
 /* begin footer */
 
 footer {
     background: #222;
     color: #aaa;
     padding-top: 10px;
-    position: relative;
-    bottom: 0;
-    margin-bottom: 0%;
 }
 
 footer a {
